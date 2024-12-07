@@ -6,7 +6,7 @@ A simple question-answering chatbot using Google's Gemini API.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/rajput-tarun/chatbot_genralpurpose.git>
 cd gemini-chatbot
 ```
 

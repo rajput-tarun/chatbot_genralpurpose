@@ -1,6 +1,7 @@
 # Gemini Chatbot
 
 A simple question-answering chatbot using Google's Gemini API.
+![image](https://github.com/user-attachments/assets/5d16d138-d170-4a65-bedc-7a239188f391)
 
 ## Setup
 
@@ -44,5 +45,5 @@ python -m src.chatbot
 - Chat history management
 - Environment variable configuration
 - Error handling
-- ![image](https://github.com/user-attachments/assets/5d16d138-d170-4a65-bedc-7a239188f391)
+  
 
